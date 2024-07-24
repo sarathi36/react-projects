@@ -1,0 +1,20 @@
+#contact{
+    width: 60%;
+    display: flex;
+    margin: auto;
+}
+#contact a{
+    width: 60%;
+    margin: auto;
+}
+
+#contact img:hover{
+    box-shadow: 2px 2px 2px 2px black;
+    border-radius: 25px;
+    border: 2px solid black;
+}
+#contact img{
+    height: 45px;
+    width: 45px;
+    margin: auto;
+}

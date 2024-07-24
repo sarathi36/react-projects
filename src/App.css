@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+#topic:hover{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+#image{
+  width: 350px;
+  height: 350px;
+  margin: auto;
+}
+#image:hover{
+  border:  2px 2px 2px 2px solid black;
+}
+
+
